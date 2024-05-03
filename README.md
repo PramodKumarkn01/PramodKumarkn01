@@ -17,12 +17,12 @@
 
 
  # 💫 About Me:
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications and App Development.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I learn new technologies like game development.
+- :zap: In my free time, I learn new technologies.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pramod-kumar-k-n-796a02257/) 
 
